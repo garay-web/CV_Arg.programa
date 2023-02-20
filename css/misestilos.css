@@ -55,7 +55,7 @@ h3 {
     font-weight: 600;
     font-size: 20px;
     color: #5591E9;
-    /* margin: 30px 25px 10px 25px; */
+   
 }
 
               /*    header */
@@ -96,7 +96,7 @@ nav a:hover, nav a:focus, nav a:active, .active a{
             /* mi info */
 .foto {
     width: 175px;
-    /* margin-top: 10px; */
+   
 }
 .nombre {
     font-weight: bold;
@@ -194,7 +194,7 @@ opacity: 0.7;
 
  /* experiencia*/
  .experiencias {
-    /* height: 200px; */
+    
     border: 1px solid #CECECE;
     border-radius: 2px;
     margin-bottom: 20px;
@@ -226,7 +226,7 @@ opacity: 0.7;
 
  .estudios {
     background-color: #F4F8FE;
-    /* height: 125px; */
+    
     border: 1px solid #85B0F0;
     border-radius: 2px;
     margin-bottom: 20px;
@@ -373,7 +373,7 @@ section#contacto {
     header {
         height: 75px;
         border-radius:5px 5px 0 0;
-        /* position: initial; */
+       
         padding: 0; 
         top: -10px;
     }
