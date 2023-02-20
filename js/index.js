@@ -37,13 +37,13 @@ function topFunction() {
              // habilidades
 
 const skillsSection = document.getElementById('habilidades');
-const progressBar = document.querySelectorAll('.porcentaje');
+const barraProgreso = document.querySelectorAll('.porcentaje');
 
 function showProgress(){
-  progressBar.forEach(progressBar=>{
-    const value = progressBar.dataset.progress;
-    progressBar.style.opacity = 1;
-    progressBar.style.width = `${value}%`;
+  barraProgreso.forEach(barraProgreso=>{
+    const value = barraProgreso.dataset.progress;
+    barraProgreso.style.opacity = 1;
+    barraProgreso.style.width = `${value}%`;
   });
 }
 
